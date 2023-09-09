@@ -1,4 +1,4 @@
-# Capstone_3
+# Shoe stock manager
 
 This progran asks the user to:
 Capture shoe
